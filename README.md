@@ -3,7 +3,7 @@
 
 ### 📌 Descrição
 
-Este projeto é a primeira implementação de um trabalho acadêmico, onde o objetivo era encontra um caminho entre dois pontos em uma matriz 2D. A abordagem utilizada foi a busca em largura (**BFS**), implementada sem um estudo aprofundado do algoritmo, baseando-se apenas no conceito geral de exploração por níveis.
+Este projeto é a primeira implementação de um trabalho acadêmico, onde o objetivo era encontrar um caminho entre dois pontos em uma matriz 2D. A abordagem utilizada foi a busca em largura (**BFS**), implementada sem um estudo aprofundado do algoritmo, baseando-se apenas no conceito geral de exploração por níveis.
 
 A matriz utilizada possui os seguintes elementos:
 - `o`: Caminho Livre
