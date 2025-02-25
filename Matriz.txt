@@ -1,0 +1,11 @@
+10 10
+o o o o o o o o o o
+o o H o R o R o o o
+o o R o R o R o o o
+o R R R o o R R o R
+o R o o R R R o o R
+o R o o o o o o R o
+o R o o o o R R R o
+o R o o R o o o o o
+R R R R o R R R R o
+o o Z o o o o o o o
