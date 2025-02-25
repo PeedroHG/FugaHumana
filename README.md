@@ -9,7 +9,7 @@ A matriz utilizada possui os seguintes elementos:
 - `o`: Caminho Livre
 - `H`: Humano (Ponto inicial)
 - `R`: Robos (Ponto inacessível)
-- `Z`: Rona de Segurança (Ponto final)
+- `Z`: Zona de Segurança (Ponto final)
 
 O algoritmo deve encontrar o menor caminho possível entre `H` (início) e `Z` (destino), evitando os obstáculos representados por `R`.
 
