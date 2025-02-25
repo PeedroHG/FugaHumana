@@ -17,7 +17,7 @@ O algoritmo deve encontrar o menor caminho possível entre `H`  e `Z`, evitando 
 
 Uma versão aprimorada deste projeto foi desenvolvida posteriormente em **C++**, incorporando um entendimento mais sólido do algoritmo e um contexto mais complexo. Caso tenha interesse, você pode conferir a nova versão aqui:
 
-➡ **[Missão de Resgate Espacial (Implementação em C++)](link-para-o-repositório-cpp)**
+➡ **[Missão de Resgate Espacial (Implementação em C++)](https://github.com/PeedroHG/ResgateEspacial)**
 
 ### ▶ Como Executar
 
