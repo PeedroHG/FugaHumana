@@ -24,7 +24,7 @@ Uma versão aprimorada deste projeto foi desenvolvida posteriormente em **C++**,
 1. Clone este repositório:
    ```sh
    git clone https://github.com/PeedroHG/FugaHumana.git
-   cd fuga-humana
+   cd FugaHumana
    ```
 
 2. Compile o código:
