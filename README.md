@@ -11,7 +11,7 @@ A matriz utilizada possui os seguintes elementos:
 - `R`: Robos (Ponto inacessível)
 - `Z`: Zona de Segurança (Ponto final)
 
-O algoritmo deve encontrar o menor caminho possível entre `H` (início) e `Z` (destino), evitando os obstáculos representados por `R`.
+O algoritmo deve encontrar o menor caminho possível entre `H`  e `Z`, evitando os obstáculos representados por `R`.
 
 ### 🚀 Evolução do Projeto
 
